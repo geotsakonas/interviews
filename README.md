@@ -5,7 +5,7 @@
 >
 > Maintainer - [Kevin Naughton Jr.](https://github.com/kdn251)
 
-## Translations
+## Translationss
 
 - [简体中文](./README-zh-cn.md)
 
